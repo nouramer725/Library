@@ -1,0 +1,4 @@
+librarian{name=nour amer id= 2556156 password=nour09090909}
+librarian{name=tassneem omar id= 2556157 password=tasnim123}
+librarian{name=nayera nagy id= 2556158 password=nayera123}
+Library{userType=MALE, username=M, password=1}

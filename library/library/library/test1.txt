@@ -1,0 +1,1 @@
+loginLibrary{userType=MALE, username=M, password=1}
